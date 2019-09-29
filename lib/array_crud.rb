@@ -29,12 +29,12 @@ end
 
 def retrieve_first_element_from_array(array)
   array.first
-  array[1]
+  # array[1]
 end
 
 def retrieve_last_element_from_array(array)
   array.last
-  array[-1]
+  # array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
